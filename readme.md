@@ -46,4 +46,11 @@ This project demonstrates my interest in applying computational methods to biolo
 - Apply additional statistical testing
 - Compare clustering results with true diagnostic labels
 - Explore dimensionality reduction methods such as PCA
-- Extend the workflow to gene expression datasets
+- Extend the workflow to gene expression datasets## How to Run
+
+## How to Run
+1. Open the notebook `analysis.ipynb`
+2. Run all cells in order
+3. Review outputs and visualizations
+
+The project was developed using Python with standard data analysis libraries.
